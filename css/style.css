@@ -1,0 +1,94 @@
+h6{
+    background-color: #1CD1B0;
+    margin: 0;
+    padding: 5px;
+}
+
+h1{
+    background-color: #00669F;
+    padding: 10px; 
+    margin: 0;   
+}
+
+h2{
+    position: absolute;
+    top: 240px;
+
+}
+
+
+.parrafoBatman{
+    position: absolute;
+    top: 300px;
+}
+
+.cuadro1{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 32px;
+    top: 240px;
+    border-radius: 10px;  
+    background-color: gray; 
+    
+}
+
+.cuadro2{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 390px;
+    top: 240px;
+    border-radius: 10px;  
+    background-color: gray; 
+    
+}
+
+.cuadro3{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 750px;
+    top: 240px;
+    border-radius: 10px;  
+    background-color: gray; 
+    
+}
+
+.fondo{
+    background-color: gray;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+
+}
+
+.batman{
+    border-radius: 50%;
+    position: absolute;
+    left: 90px;
+    top: 130px;
+}
+
+.button{
+    position: absolute;
+    top: 450px;
+    padding: 10px 30px;
+    left: 90px;
+    font-family: 'Roboto';
+    font-style: normal;
+    background: #00669F;
+    color: white;
+    border:none;
+    border-radius: 10px;
+    
+}
+
+footer{
+    position: relative;
+    top: 800px;
+    padding: 5px;   
+    color: white;
+    background: #00669F;
+   
+   
+       
+}
